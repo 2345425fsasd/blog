@@ -8,3 +8,4 @@
 ## notes
 
 - [draft survey on small scale technology for biomedical engineering](https://2345425fsasd.github.io/blog/drafts/DRAFT_Survey_on_Small_Scale_Technology_for_BME.pdf)
+
